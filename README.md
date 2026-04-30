@@ -8,10 +8,10 @@ I specialize in turning complex systems into simple, automated workflows — whe
 ---
 
 ## 🎓 Certifications
-- Computer System Support Certification  (Oklahoma city community college) 2 Years
-- DevOps Engineering Certification  (Intellipaat Technology Training) 4 months
-- Certified AI Business Consultant  ( United state Institude of Human Development) 12 weeks
-- Additional training in AWS, Azure, Linux, and automation systems  ( Ongoing)
+- Computer System Support Certification  # (Oklahoma city community college) 2 Years
+- DevOps Engineering Certification  # (Intellipaat Technology Training) 4 months
+- Certified AI Business Consultant  # ( United state Institude of Human Development) 12 weeks
+- Additional training in AWS, Azure, Linux, and automation systems  # ( Ongoing)
 
 ---
 
